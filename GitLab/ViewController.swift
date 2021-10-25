@@ -23,9 +23,6 @@ class ViewController: NSViewController {
         print("dev3 hello")
     }
 
-    func devHello(){
-        print("dev hello")
-    }
     
     func sayHello()  {
         print("Hello")
