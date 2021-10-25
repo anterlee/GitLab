@@ -15,7 +15,9 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func devHello2(){
+        print("dev hello")
+    }
     
     func sayHello()  {
         print("Hello")
