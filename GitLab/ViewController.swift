@@ -15,9 +15,7 @@ class ViewController: NSViewController {
         // Do any additional setup after loading the view.
     }
     
-    func main3(){
-        print("new main3")
-    }
+
     
     func main2(){
         print("new main")
