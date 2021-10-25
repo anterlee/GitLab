@@ -14,17 +14,10 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
     }
-    
 
-    
-    func main2(){
-        print("new main")
+    func devHello(){
+        print("dev hello")
     }
-    
-    func devHello3(){
-        print("dev3 hello")
-    }
-
     
     func sayHello()  {
         print("Hello")
