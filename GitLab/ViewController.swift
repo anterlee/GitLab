@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         lb_title.text = "hello Git!"
     }
 
-
+    @IBAction func onChangeTitleBtn(_ sender: UIButton) {
+        lb_title.text = "타이틀이 변경 되었습니다."
+    }
+    
 }
 
